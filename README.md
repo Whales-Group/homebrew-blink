@@ -1,1 +1,1 @@
-# digitwhale_packages
+# digitwhale_blink_desktop
