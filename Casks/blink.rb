@@ -2,8 +2,8 @@ cask "blink" do
   version "0.1.0"
 
   on_arm do
-    url "https://apps-verity-drive.ckugq3.easypanel.host/blink/uploads/blink/33e6aa41-fa0f-4702-b639-0535ded1e992-blink-aarch64.dmg"
-    sha256 "c37414e30cc1767610d4a36e195042c872a716f308e188afea55376b467f29bf"
+    url "https://files.digitwhale.com/blink/uploads/blink/c8954d33-28e9-41a1-8deb-b3e62d864b56-blink-aarch64.dmg"
+    sha256 "fa0980e9ea2311a677e2694c9daa618c839ea0c7bee7c25d569d66e1efd5be61"
   end
   on_intel do
     url "https://blink.digitwhale.com/downloads/blink-x64.dmg"
